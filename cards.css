@@ -1,0 +1,13 @@
+.deleteButtonCard {
+	color: red;
+	font-size: 18px;
+    max-width: 200px;
+    border: solid;
+    align-content: flex-start;
+
+}
+
+.cardHolderDiv {
+    padding: 15px;
+    align-self: flex-start;
+}
